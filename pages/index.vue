@@ -1,6 +1,6 @@
 <template>
     <div>
-        Ok
+        Oi amô, te amo
     </div>
 </template>
 
